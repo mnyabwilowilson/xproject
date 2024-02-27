@@ -1,0 +1,2 @@
+1.Install xcomsetup_2.30.0.0_fix.exe
+2 Copy and replace files from folder Crack to folder C:\Program Files\Scania XCOM
